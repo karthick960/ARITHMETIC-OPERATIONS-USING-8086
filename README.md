@@ -1,5 +1,7 @@
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
+# Name - KARTHICK K
+# Reg No - 212222040070
 
 ## AIM
 
@@ -58,14 +60,21 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
-
+      1201:34               68:1205
+      1202:12               00:1206
+      1203:34               c4:1207                                
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 17 06 59_85010352](https://github.com/user-attachments/assets/e003a693-eb4f-4180-bc71-9b03c938b55f)
 
----
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="901" height="593" alt="Screenshot 2025-09-14 182139" src="https://github.com/user-attachments/assets/2a6ee828-4b7f-4a83-8650-138452df5eb4" />
+
+
+<img width="916" height="593" alt="Screenshot 2025-09-14 175635" src="https://github.com/user-attachments/assets/ee533120-4050-4d87-8e57-b634b304935c" />
+
 
 ## 2. SUBTRACTION
 
@@ -109,15 +118,19 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
-
+      1201:34               68:1205
+      1202:12               00:1206
+      1203:34               c4:1207                              
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+![WhatsApp Image 2025-09-21 at 17 07 00_b00cfe3c](https://github.com/user-attachments/assets/609e5228-e6fc-41b7-a8ee-8c224d574061)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="893" height="587" alt="Screenshot 2025-09-14 182203" src="https://github.com/user-attachments/assets/90edbae7-11ca-4787-a938-8ad347753313" />
+
+<img width="913" height="568" alt="Screenshot 2025-09-14 180909" src="https://github.com/user-attachments/assets/ca69b58d-f24a-4fa4-bf9c-d62735f6effa" />
+
 
 ## 3. MULTIPLICATION
 
@@ -158,14 +171,18 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
-
+      1201:34               68:1205
+      1202:12               00:1206
+      1203:34               c4:1207                               
 #### Manual Calculations
 
-(Add your calculation here)
+ ![WhatsApp Image 2025-09-21 at 17 07 00_f8250d32](https://github.com/user-attachments/assets/1c5981cd-0b35-4431-b913-0c9cecdea941)
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="885" height="587" alt="Screenshot 2025-09-14 182217" src="https://github.com/user-attachments/assets/dd1d9bdf-04c0-455f-b3d1-d15f3a67a645" />
+<img width="904" height="566" alt="Screenshot 2025-09-14 183300" src="https://github.com/user-attachments/assets/ba532115-92a6-47d6-b064-c959d2002b31" />
+
 
 ## 4. DIVISION
 
@@ -203,14 +220,17 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
+      1201:34               68:1205
+      1202:12               00:1206
+      1203:34               c4:1207                                                               
 
 #### Manual Calculations
+![WhatsApp Image 2025-09-21 at 17 07 01_4eb4219d](https://github.com/user-attachments/assets/620b5bb7-38c1-4bd2-aca3-b262b5247578)
 
-(Add your calculation here)
-
----
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="921" height="576" alt="Screenshot 2025-09-14 182238" src="https://github.com/user-attachments/assets/d1b24a8e-d0a9-4486-9686-b860187c5fca" />
+<img width="916" height="561" alt="Screenshot 2025-09-14 183450" src="https://github.com/user-attachments/assets/a3c592ae-be5b-4ab7-97f6-abe12a0bbcba" />
 
 
 ## RESULT
